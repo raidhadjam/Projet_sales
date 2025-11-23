@@ -1,0 +1,13 @@
+Moyenne des ventes par trimestre (Average Sales Per Quarter)
+Quarter,Product_A,Product_B,Product_C,Product_D,Total_Sales
+Q1,78.0,65.33,35.67,30.33,209.33
+Q2,78.67,47.33,48.67,29.33,204.0
+Q3,88.33,43.0,41.33,34.0,206.67
+Q4,87.67,54.67,33.67,21.33,197.33
+
+Total des ventes par trimestre (Total Sales Per Quarter)
+Quarter,Total_Sales
+Q1,628
+Q2,612
+Q3,620
+Q4,592
